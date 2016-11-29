@@ -1,0 +1,3 @@
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.5' type='text/css' media='all' />                                                                      38
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.4.5' type='text/css' media='all' />    40
+38 href='http://theme500.com/stellar/wp-content/themes/fivehundred-stellar/style.css?ver=4.4.5' 
