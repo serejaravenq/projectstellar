@@ -503,10 +503,10 @@ img.aligncenter {
     border-bottom: 2px solid transparent;
     padding: 8px; }
     .pagination a.next:after {
-      content: " тА║";
+      content: " ›";
       color: #47d79c; }
     .pagination a.prev:before {
-      content: "тА╣ ";
+      content: "‹ ";
       color: #47d79c; }
   .pagination span.current {
     color: #fff;
@@ -530,10 +530,10 @@ img.aligncenter {
       border-bottom: 2px solid transparent;
       padding: 8px; }
       .pagination li a.next:after {
-        content: " тА║";
+        content: " ›";
         color: #47d79c; }
       .pagination li a.prev:before {
-        content: "тА╣ ";
+        content: "‹ ";
         color: #47d79c; }
     .pagination li.selected a, .pagination li span.current {
       color: #fff;
